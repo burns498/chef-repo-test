@@ -7,7 +7,7 @@
 # All rights reserved - Do Not Redistribute
 #
 application "rails-demo" do
-  path "/var/www/rails_apps/rails-demo"
+  path "/var/www/rails-apps/rails-demo"
   owner "vagrant"
   group "vagrant"
 
