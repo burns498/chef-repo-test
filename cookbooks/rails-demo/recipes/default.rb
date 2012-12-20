@@ -11,7 +11,7 @@ application "rails-demo" do
   owner "vagrant"
   group "vagrant"
 
-  repository "https://github.com/burns498/chef-demo.git"
+  repository "http://github.com/mulderp/chef-demo.git"
   rails do
   	bundler true
   end
