@@ -13,7 +13,7 @@ application "rails-demo" do
 
   repository "http://github.com/mulderp/chef-demo.git"
   rails do
-  	bundler = true
+  	bundler true
   end
   passenger_apache2
 end
